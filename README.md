@@ -1,4 +1,4 @@
-#Customer Behaviour Analysis  
+Customer Behaviour Analysis  
 Executive Summary 
 This project executes a full-cycle data analysis pipeline to understand customer shopping 
 habits, revenue drivers, and product performance. The solution involves data extraction 
